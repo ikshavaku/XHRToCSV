@@ -16,7 +16,7 @@ Click on the Download Icon in the Network Tab.
 
 ![image](https://user-images.githubusercontent.com/19332610/114358429-89893a80-9b90-11eb-9693-e5383ed73e88.png)
 
-Save the image in the same folder as this script.
+Save the HAR file in the same folder as this script.
 
 Run the Script by executing the command ```python requestList.py```
 if you have multiple versions of python installed, run ```python3 requestList.py```
